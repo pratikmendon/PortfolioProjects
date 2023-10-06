@@ -8,7 +8,7 @@ Build a Data Analytics dashboard for the same to HR to save time from manual wor
 
 **Requirement:**
 + Get Working Preference of People: e.g., WFH (Work from home) or WFO (Work from office) or HWFH. What's the reason behind frequently taking WFH.
-+ 2Understand the presence of people i.e. How many people are present in a given week or month.
++ Understand the presence of people i.e. How many people are present in a given week or month.
 + Understand Better Capacity planning. What is the % of WFH or WFO? Is there any preference on which day will people do WFH?
 + Find Sick Leave (SL) % and reason behind it.
 
