@@ -23,3 +23,6 @@ Atliq Founders and Co-Founders, HR.
 This project is taught by Dhaval Patel from codebasics team.
 
 + Link: [Data Analyst Project For Beginners (HR Analytics)](https://www.youtube.com/watch?v=ru1qeDO_qrc&list=PLeo1K3hjS3uuVQccZa7yFwK3ltoGQOWbM)
+
+Check out my Power BI Dashboard in Novypro:
+[Atliq Presence insights](https://www.novypro.com/project/atliq-presence-insights-1)
